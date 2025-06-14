@@ -1,2 +1,2 @@
 # MachineLearningTraining
-This is a test repository where I'll upload all my test cases, documents, implementation, problems, etc, associated to deap learning or any tool hepful to improve my skill in Machine Learning
+This is a test repository where I'll upload all my test cases, documents, implementation, problems, etc, associated to deap learning or any tool hepful to improve my skill in Machine Learning. If you think that you have an interesting challenge to share with us, feel free to talk with me and we can talk about that. In another case, if I don't have the answer, we can search it :)
